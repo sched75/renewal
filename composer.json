@@ -1,0 +1,13 @@
+{
+    "name": "wse/renewal2019",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "phpforce/common": "dev-master",
+        "phpforce/soap-client": "dev-master",
+        "phpforce/rest-client": "dev-master",
+        "doctrine/common": "2.7.x-dev",
+        "monolog/monolog": "1.x-dev",
+        "nikic/fast-route": "v1.x-dev"
+    }
+}

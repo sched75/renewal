@@ -1,0 +1,44 @@
+# pack-refs with: peeled fully-peeled sorted 
+1febd6c3ef84253d7c815bed85fc622ad207a9f8 refs/heads/1.0
+662722581c2931bbebd07ded928f24f9d4e9f7e2 refs/heads/feature/docs-example
+975c0e44ab85fb72acc5be2082464e74cade966b refs/heads/master
+b606b8c98e87424ccf9ef801920c672dca5c0dd3 refs/pull/1/head
+9ee3eb9d27191451e52ebdad60331f3114ca8ba6 refs/pull/1/merge
+7f3d47a0e8d400c8240dc0be913afa700221d381 refs/pull/10/head
+99e53436d50b4eabc1cc99eac5e64dc0195d105d refs/pull/10/merge
+f6ebfd2ff29b1c51cc391bf4d977f0183c986f06 refs/pull/11/head
+2b3c34f558e284b87b0d5d1029a3714eab1ac0c1 refs/pull/11/merge
+2808f29154c2323611a4299bf53d5d47c098c4c2 refs/pull/12/head
+85ef3aa7ca3910b6331eaf85d416598b96dc173c refs/pull/13/head
+e556e2958587e40e79e09529360b0ae862487133 refs/pull/13/merge
+948a628c8d796a234645c29d68b840617d0e6aa5 refs/pull/14/head
+b4640ffd97b08d5fba1ad44ce8612723bb285ae0 refs/pull/15/head
+e2dd2bad3c253dd803dd77cbefbad2d23a112bc6 refs/pull/16/head
+662722581c2931bbebd07ded928f24f9d4e9f7e2 refs/pull/17/head
+347a1789c405f44b5a03b385c0190870f748d1c1 refs/pull/18/head
+2686c5c53904d849247489a2aa80b7f9e8d3bc65 refs/pull/19/head
+b04ed6260f88105043adb9aaca913a8c8cd376c9 refs/pull/2/head
+c877179f064f7e642c0ac856f1f30528a1752be1 refs/pull/2/merge
+e2a93986dd75a84389d16d3830348f96ee9a4879 refs/pull/20/head
+8e8b69918d65cb736f9627bf3fe62a70444c3b4a refs/pull/21/head
+79778a1575e76376fe5ce87184e4698656a98bca refs/pull/23/head
+3bc5c8f254783afef4310ee113b5d9ea556cdd02 refs/pull/25/head
+f01102e00999402c1b4ddf6be36c62335f5827e1 refs/pull/26/head
+57bca850e4e6285d7a92c3ec15a7fcab9320116c refs/pull/27/head
+919057e7546fcc81345970de5dd5ce6a205d8f60 refs/pull/28/head
+348f0bc2ea21820389e3190372dfc5cdc7878353 refs/pull/3/head
+bc4772de88938c3f10320efd058a4edaefe6c051 refs/pull/3/merge
+284eed944ba5119d074e846223b70e5f4bb874b7 refs/pull/4/head
+ca02966199dd5735cca77d8667327c3be7ea6f86 refs/pull/4/merge
+4e334cd9d314a243ae9a8902cb509b95daff6586 refs/pull/5/head
+51af1642bae5b2c94efb4be4880bc20417aa1ba3 refs/pull/6/head
+0d1ad1d172e1369f250ccafa264871bbd1cc4fad refs/pull/7/head
+e4082a4f7239d2c7c0b12e5c19a76c585878ed61 refs/pull/8/head
+de3b74bbb95f4fda9acd246dc4115c60c96e57c7 refs/pull/8/merge
+39eb8bc0b037c32e8fdc6ff62658fc528768ea99 refs/pull/9/head
+7a735bf7201f54ca1e3f43a6d28f40a205ba91bb refs/tags/1.0.2
+^1febd6c3ef84253d7c815bed85fc622ad207a9f8
+62ebec24c643febb11694b38217cd3a9b0a47fae refs/tags/v1.0
+^2f708a85bb3aab5d99dab8be435abd73e0b18acb
+d1ec545810553c0f5ed11140a3b5afa74a141459 refs/tags/v1.0.1
+^83893c552fd2045dd78aef794c31e694c37c0b8c

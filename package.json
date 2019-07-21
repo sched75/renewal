@@ -1,0 +1,25 @@
+{
+  "name": "renewal2019",
+  "version": "1.0.0",
+  "description": "Renewal 2019 est une nouvelle version du système de renewal apportant de toutes les fonctionnalités manquante actuelle de l'outil Renewal.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sched75/renewal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sched75/renewal/issues"
+  },
+  "homepage": "https://github.com/sched75/renewal#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
